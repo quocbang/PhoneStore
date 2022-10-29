@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources\\views\\admin",
+    "\\resources\\views\\admin\\advertise",
+    "\\storage\\framework\\cache",
+    "\\storage\\framework\\cache\\data",
+    "\\storage\\framework\\sessions",
+    "\\storage\\framework\\testing",
+    "\\storage\\framework\\views",
+    "\\storage\\logs"
+  ],
+  "SelectedNode": "\\tests",
+  "PreviewInSolutionExplorer": false
+}
